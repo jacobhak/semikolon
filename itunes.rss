@@ -21,6 +21,7 @@
     </itunes:category>
  
     
+    
     <item>
       <title><![CDATA[Första avsnittet]]></title>
       <description><![CDATA[<p>
@@ -32,37 +33,12 @@ Vi snackar om Flappy Bird och de senaste Apple ryktena.
       <guid>http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet/</guid>
       <pubDate>Tue, 18 Feb 2014 16:32:10 +0100</pubDate>
       <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:summary><![CDATA[Vi snackar om Flappy Bird och de senaste Apple ryktena.]]></itunes:summary>
       <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/podcast1.mp3" type="audio/mp3" length="23775317" />
     </item>
     
-    <item>
-      <title><![CDATA[hej varlden]]></title>
-      <description><![CDATA[<div id="outline-container-1" class="outline-2">
-<h2 id="sec-1">Lolfi</h2>
-<div class="outline-text-2" id="text-1">
-
-<p>golfi
-</p>
-</div>
-
-<div id="outline-container-1-1" class="outline-3">
-<h3 id="sec-1-1">lolle</h3>
-<div class="outline-text-3" id="text-1-1">
-
-<p>hej
-</p></div>
-</div>
-</div>
-
-]]></description>
-      <link>http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden/</link>
-      <guid>http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden/</guid>
-      <pubDate>Tue, 18 Feb 2014 01:02:58 +0100</pubDate>
-      <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/.mp3" type="audio/mp3" length="" />
-    </item>
+    
+    
     
  
   </channel>
