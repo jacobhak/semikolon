@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title><![CDATA[Semikolon]]></title>
+    <link>http://jacobhak.github.io/semikolon</link>
+    <language>sv-se</language>
+    <copyright>Jacob Håkansson, Walter Nordström</copyright>
+    <itunes:author>Jacob Håkansson, Walter Nordström</itunes:author>
+    <itunes:subtitle><![CDATA[En semi-teknisk podcast]]></itunes:subtitle>
+    <description><![CDATA[]]></description>
+    <itunes:explicit>no</itunes:explicit>
+ 
+    <itunes:owner>
+      <itunes:name>Jacob Haakansson</itunes:name>
+      <itunes:email>jacobhakansson@gmail.com</itunes:email>
+    </itunes:owner>
+ 
+    <itunes:image href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/semikolon.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+ 
+    
+    <item>
+      <title><![CDATA[Första avsnittet]]></title>
+      <description><![CDATA[<p>
+Vi snackar om Flappy Bird och de senaste Apple ryktena.
+</p>
+
+]]></description>
+      <link>http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet/</link>
+      <guid>http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet/</guid>
+      <pubDate>Tue, 18 Feb 2014 16:32:10 +0100</pubDate>
+      <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/podcast1.mp3" type="audio/mp3" length="23775317" />
+    </item>
+    
+    <item>
+      <title><![CDATA[hej varlden]]></title>
+      <description><![CDATA[<div id="outline-container-1" class="outline-2">
+<h2 id="sec-1">Lolfi</h2>
+<div class="outline-text-2" id="text-1">
+
+<p>golfi
+</p>
+</div>
+
+<div id="outline-container-1-1" class="outline-3">
+<h3 id="sec-1-1">lolle</h3>
+<div class="outline-text-3" id="text-1-1">
+
+<p>hej
+</p></div>
+</div>
+</div>
+
+]]></description>
+      <link>http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden/</link>
+      <guid>http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden/</guid>
+      <pubDate>Tue, 18 Feb 2014 01:02:58 +0100</pubDate>
+      <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/.mp3" type="audio/mp3" length="" />
+    </item>
+    
+ 
+  </channel>
+</rss>
