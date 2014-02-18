@@ -1,0 +1,42 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title><![CDATA[{{ site.title }}]]></title>
+    <link>{{ site.url }}</link>
+    <language>sv-se</language>
+    <copyright>Jacob Håkansson, Walter Nordström</copyright>
+    <itunes:author>Jacob Håkansson, Walter Nordström</itunes:author>
+    <itunes:subtitle><![CDATA[{{ site.subtitle }}]]></itunes:subtitle>
+    <description><![CDATA[{{ site.description }}]]></description>
+    <itunes:explicit>no</itunes:explicit>
+ 
+    <itunes:owner>
+      <itunes:name>Jacob Haakansson</itunes:name>
+      <itunes:email>jacobhakansson@gmail.com</itunes:email>
+    </itunes:owner>
+ 
+    <itunes:image href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/semikolon.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+ 
+    {% for post in site.posts limit: 20 %}
+    {% if post.filename %}
+    <item>
+      <title><![CDATA[{{ post.title | cdata_escape }}]]></title>
+      <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <guid>{{ site.url }}{{ post.url }}</guid>
+      <pubDate>{{ post.date | date_to_rss }}</pubDate>
+      <itunes:author><![CDATA[{{ site.author | strip_html }}]]></itunes:author>
+      <itunes:summary><![CDATA[{{ post.summary }}]]></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/{{ post.filename }}.mp3" type="audio/mp3" length="{{ post.length }}" />
+    </item>
+    {% endif %}
+    {% endfor %}
+ 
+  </channel>
+</rss>
