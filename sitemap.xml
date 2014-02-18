@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2014/02/18/hej-varlden/</loc>
+        <loc>http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden/</loc>
         <lastmod>2014-02-18T01:27:38+01:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://jacobhak.github.io/semikolon/blog/archives/</loc>
         <lastmod>2014-02-18T01:27:38+01:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://jacobhak.github.io/semikolon/</loc>
         <lastmod>2014-02-18T01:27:38+01:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://jacobhak.github.io/semikolon/robots.txt</loc>
         <lastmod>2014-02-18T00:31:58+01:00</lastmod>
     </url>
 </urlset>
