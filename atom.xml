@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Semikolon]]></title>
-  <link href="http://jacobhak.github.io/semikolon/atom.xml" rel="self"/>
-  <link href="http://jacobhak.github.io/semikolon/"/>
-  <updated>2014-02-21T21:47:44+01:00</updated>
-  <id>http://jacobhak.github.io/semikolon/</id>
+  <link href="http://semikolon.io//atom.xml" rel="self"/>
+  <link href="http://semikolon.io//"/>
+  <updated>2014-02-21T23:23:56+01:00</updated>
+  <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Första Avsnittet]]></title>
-    <link href="http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet/"/>
+    <link href="http://semikolon.io//blog/2014/02/18/forsta-avsnittet/"/>
     <updated>2014-02-18T16:32:10+01:00</updated>
-    <id>http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet</id>
+    <id>http://semikolon.io//blog/2014/02/18/forsta-avsnittet</id>
     <content type="html"><![CDATA[<p>
 Vi snackar om Flappy Bird och de senaste Apple ryktena.
 </p>
@@ -27,9 +27,9 @@ Vi snackar om Flappy Bird och de senaste Apple ryktena.
   
   <entry>
     <title type="html"><![CDATA[Hej Varlden]]></title>
-    <link href="http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden/"/>
+    <link href="http://semikolon.io//blog/2014/02/18/hej-varlden/"/>
     <updated>2014-02-18T01:02:58+01:00</updated>
-    <id>http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden</id>
+    <id>http://semikolon.io//blog/2014/02/18/hej-varlden</id>
     <content type="html"><![CDATA[<div id="outline-container-1" class="outline-2">
 <h2 id="sec-1">Lolfi</h2>
 <div class="outline-text-2" id="text-1">

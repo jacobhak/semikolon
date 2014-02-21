@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://jacobhak.github.io/semikolon/sitemap.xml 
+Sitemap: http://semikolon.io//sitemap.xml 

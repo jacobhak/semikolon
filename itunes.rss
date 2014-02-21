@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title><![CDATA[Semikolon]]></title>
-    <link>http://jacobhak.github.io/semikolon</link>
+    <link>http://semikolon.io/</link>
     <language>sv-se</language>
     <copyright>Jacob Håkansson, Walter Nordström</copyright>
     <itunes:author>Jacob Håkansson, Walter Nordström</itunes:author>
@@ -29,8 +29,8 @@ Vi snackar om Flappy Bird och de senaste Apple ryktena.
 </p>
 
 ]]></description>
-      <link>http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet/</link>
-      <guid>http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet/</guid>
+      <link>http://semikolon.io//blog/2014/02/18/forsta-avsnittet/</link>
+      <guid>http://semikolon.io//blog/2014/02/18/forsta-avsnittet/</guid>
       <pubDate>Tue, 18 Feb 2014 16:32:10 +0100</pubDate>
       <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
       <itunes:summary><![CDATA[Vi snackar om Flappy Bird och de senaste Apple ryktena.]]></itunes:summary>

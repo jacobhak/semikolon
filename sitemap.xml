@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://jacobhak.github.io/semikolon/blog/2014/02/18/hej-varlden/</loc>
+        <loc>http://semikolon.io//blog/2014/02/18/hej-varlden/</loc>
         <lastmod>2014-02-18T01:27:38+01:00</lastmod>
     </url>
     <url>
-        <loc>http://jacobhak.github.io/semikolon/blog/2014/02/18/forsta-avsnittet/</loc>
+        <loc>http://semikolon.io//blog/2014/02/18/forsta-avsnittet/</loc>
         <lastmod>2014-02-18T16:48:14+01:00</lastmod>
     </url>
     <url>
-        <loc>http://jacobhak.github.io/semikolon/blog/archives/</loc>
+        <loc>http://semikolon.io//blog/archives/</loc>
         <lastmod>2014-02-18T16:48:14+01:00</lastmod>
     </url>
     <url>
-        <loc>http://jacobhak.github.io/semikolon/</loc>
+        <loc>http://semikolon.io//</loc>
         <lastmod>2014-02-18T16:48:14+01:00</lastmod>
     </url>
     <url>
-        <loc>http://jacobhak.github.io/semikolon/itunes.rss</loc>
+        <loc>http://semikolon.io//itunes.rss</loc>
         <lastmod>2014-02-18T16:50:17+01:00</lastmod>
     </url>
     <url>
-        <loc>http://jacobhak.github.io/semikolon/robots.txt</loc>
+        <loc>http://semikolon.io//robots.txt</loc>
         <lastmod>2014-02-18T00:31:58+01:00</lastmod>
     </url>
 </urlset>
