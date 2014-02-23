@@ -4,7 +4,7 @@ title: "2. Jag vill ha en robot!"
 date: 2014-02-23 19:49:05 +0100
 comments: true
 categories: 
-filename: https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/2.+Jag+vill+ha+en+robot!.mp3
+filename: 2.Jag vill ha en robot!
 length: 23260117
 summary: Vi snackar om Facebooks köp av WhatsApp, Googles project Tango, robotar, med mera.
 ---
@@ -72,6 +72,6 @@ summary: Vi snackar om Facebooks köp av WhatsApp, Googles project Tango, robota
 
 
 <p>
-Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824241885">iTunes</a> och som <a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/2.+Jag+vill+ha+en+robot!.mp3">mp3</a>
+Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824241885">iTunes</a> och som <a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/2.+Jag+vill+ha+en+robot!.mp3">mp3</a>.
 </p></div>
 </div>
