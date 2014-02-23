@@ -7,8 +7,7 @@ comments: true
 categories: 
 filename: https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/2.+Jag+vill+ha+en+robot!.mp3
 length: 23260117
-summary: Vi snackar om Facebooks köp av WhatsApp, Googles project
-Tango, robotar, med mera.
+summary: Vi snackar om Facebooks köp av WhatsApp, Googles project Tango, robotar, med mera.
 ---
 #+END_HTML
 #+LANGUAGE:  sv
@@ -20,6 +19,11 @@ Tango, robotar, med mera.
 #+LINK_UP:   
 #+LINK_HOME: 
 #+XSLT:
+#+TITLE:     2014-02-23-2-jag-vill-ha-en-robot.org
+#+AUTHOR:    Jacob Håkansson
+#+EMAIL:     jacobhakansson@gmail.com
+#+DATE:      2014-02-23 Sun
+
 * [[http://arstechnica.com/business/2014/02/facebook-buys-whatsapp-for-16-billion/][Facebook köper WhatsApp]]
 * [[http://arstechnica.com/gadgets/2014/02/googles-project-tango-is-a-smartphone-with-kinect-style-computer-vision/][Google lanserar project Tango]]
 * Robotar
