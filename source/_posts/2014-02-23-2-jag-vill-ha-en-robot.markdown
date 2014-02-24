@@ -4,7 +4,7 @@ title: "2. Jag vill ha en robot!"
 date: 2014-02-23 19:49:05 +0100
 comments: true
 categories: 
-filename: 2.Jag vill ha en robot!
+filename: 2.+Jag+vill+ha+en+robot!
 length: 23260117
 summary: Vi snackar om Facebooks köp av WhatsApp, Googles project Tango, robotar, med mera.
 ---
