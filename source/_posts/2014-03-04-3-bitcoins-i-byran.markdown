@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /3/
 title: "3. Bitcoins i byrån"
 date: 2014-03-04 20:45:19 +0100
 comments: true
