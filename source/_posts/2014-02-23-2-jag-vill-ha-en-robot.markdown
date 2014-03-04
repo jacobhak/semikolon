@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /2/
 title: "2. Jag vill ha en robot!"
 date: 2014-02-23 19:49:05 +0100
 comments: true

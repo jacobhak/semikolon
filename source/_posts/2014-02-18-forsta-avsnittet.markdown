@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /1/
 title: "Första avsnittet"
 date: 2014-02-18 16:32:10 +0100
 comments: true
