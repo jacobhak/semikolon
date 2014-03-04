@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://semikolon.io//blog/2014/02/18/forsta-avsnittet/</loc>
-        <lastmod>2014-02-23T20:50:38+01:00</lastmod>
+        <loc>http://semikolon.io//1/</loc>
+        <lastmod>2014-03-04T21:20:08+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//blog/2014/02/23/2-jag-vill-ha-en-robot/</loc>
-        <lastmod>2014-02-27T15:47:27+01:00</lastmod>
+        <loc>http://semikolon.io//2/</loc>
+        <lastmod>2014-03-04T21:19:34+01:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//3/</loc>
@@ -18,11 +18,11 @@
     </url>
     <url>
         <loc>http://semikolon.io//blog/archives/</loc>
-        <lastmod>2014-03-04T21:14:54+01:00</lastmod>
+        <lastmod>2014-03-04T21:20:08+01:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//</loc>
-        <lastmod>2014-03-04T21:14:54+01:00</lastmod>
+        <lastmod>2014-03-04T21:20:08+01:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//itunes.rss</loc>

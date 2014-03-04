@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2014-03-04T21:15:07+01:00</updated>
+  <updated>2014-03-04T21:21:21+01:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -52,9 +52,9 @@ Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824
   
   <entry>
     <title type="html"><![CDATA[2. Jag Vill Ha en Robot!]]></title>
-    <link href="http://semikolon.io//blog/2014/02/23/2-jag-vill-ha-en-robot/"/>
+    <link href="http://semikolon.io//2/"/>
     <updated>2014-02-23T19:49:05+01:00</updated>
-    <id>http://semikolon.io//blog/2014/02/23/2-jag-vill-ha-en-robot</id>
+    <id>http://semikolon.io//2-jag-vill-ha-en-robot</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://arstechnica.com/business/2014/02/facebook-buys-whatsapp-for-16-billion/">Facebook köper WhatsApp</a>
 </li>
@@ -94,9 +94,9 @@ Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824
   
   <entry>
     <title type="html"><![CDATA[Första Avsnittet]]></title>
-    <link href="http://semikolon.io//blog/2014/02/18/forsta-avsnittet/"/>
+    <link href="http://semikolon.io//1/"/>
     <updated>2014-02-18T16:32:10+01:00</updated>
-    <id>http://semikolon.io//blog/2014/02/18/forsta-avsnittet</id>
+    <id>http://semikolon.io//forsta-avsnittet</id>
     <content type="html"><![CDATA[<p>
 Vi snackar om Flappy Bird och de senaste Apple ryktena.
 Finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824241885">iTunes</a> och som <a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/podcast1.mp3">mp3</a>.
