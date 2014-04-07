@@ -31,6 +31,7 @@ layout: nil
       <link>{{ site.url }}{{ post.url }}</link>
       <guid>{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rss }}</pubDate>
+      <itunes:duration>{{ post.duration }}</itunes:duration>
       <itunes:author><![CDATA[{{ site.author | strip_html }}]]></itunes:author>
       <itunes:summary><![CDATA[{{ post.summary }}]]></itunes:summary>
       <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/{{ post.filename }}.mp3" type="audio/mp3" length="{{ post.length }}" />
