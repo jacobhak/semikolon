@@ -22,5 +22,5 @@ faktiskt används till.
 
 #+BEGIN_HTML
 <br>
-<audio controls><source src="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillra%CC%88ckligt+bra+och+Nytt.mp3"></audio>
 #+END_HTML
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillra%CC%88ckligt+bra+och+Nytt.mp3][Lyssna här]]
