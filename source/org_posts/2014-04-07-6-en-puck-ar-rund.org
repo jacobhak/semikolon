@@ -1,0 +1,28 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "6. En puck är rund"
+date: 2014-04-07 20:56:02 +0200
+permalink: /6/
+comments: true
+categories: 
+filename: 
+length: 
+summary: 
+---
+#+END_HTML
+Uppföljning kring VR efter Facebooks köp av Oculus. Ännu mer
+diskussion om TV-boxar efter Amazons lansering av Fire TV
+Uppföljning kring VR efter Facebooks köp av Oculus. Kommer Microsoft
+påverka marknaden för virtuella assistenter med Cortana? Ännu mer
+diskussion om TV-boxar efter Amazons lansering av Fire TV. Spotifys
+uppdatering får Jacob att bli sugen på att betala, fast Google är ett
+alternativ.
+
+- [[http://arstechnica.com/gaming/2014/03/welcome-to-the-vr-social-what-to-expect-from-oculus-in-the-facebook-era/][Analys av Facebooks köp av Oculus]]
+- [[http://arstechnica.com/information-technology/2014/04/how-microsofts-cortana-will-take-digital-personal-assistants-to-the-next-level/][Microsoft Cortana]]
+- [[http://arstechnica.com/gadgets/2014/04/amazon-reveals-video-streaming-box-fire-tv/][Amazon visar upp Fire TV]]
+- [[http://www.theverge.com/2014/4/5/5584604/this-is-android-tv][Läckta dokument avslöjar Android TV]]
+- [[http://news.spotify.com/se/2014/04/02/spotify-paints-it-black-with-new-look/][Spotifys stora uppdatering]]
+- [[http://www.androidpolice.com/2014/03/17/google-play-music-and-music-all-access-now-available-in-greece-norway-sweden-and-slovakia/][Google Play Music All Access tillgängligt i Sverige]]
+- [[http://atp.fm][Accidental Tech Podcast, rekommenderas!]]
