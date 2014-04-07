@@ -30,7 +30,6 @@ summary: Mt. Gox stänger ner. Samsung och Nokia annonserar telefoner. Vad händ
 
 
 <br>
-<audio controls><source src="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/3.+Bitcoins+i+Byra%CC%8An.mp3"></audio>
 <p>
 Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824241885">iTunes</a> och som <a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/3.+Bitcoins+i+Byrån.mp3">mp3</a>.
 </p>

@@ -36,7 +36,6 @@ summary: Vi snackar om Facebooks köp av WhatsApp, Googles project Tango, robota
 
 #+BEGIN_HTML
 <br>
-<audio controls><source src="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/2.+Jag+vill+ha+en+robot!.mp3"></audio>
 #+END_HTML
 
 Avsnittet finns på [[https://itunes.apple.com/us/podcast/semikolon/id824241885][iTunes]] och som [[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/2.+Jag+vill+ha+en+robot!.mp3][mp3]].

@@ -29,4 +29,6 @@ faktiskt används till.
 
 
 <br>
-<audio controls><source src="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillra%CC%88ckligt+bra+och+Nytt.mp3"></audio>
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillräckligt+bra+och+Nytt.mp3">Lyssna här</a>
+</p>

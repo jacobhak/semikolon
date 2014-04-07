@@ -30,4 +30,6 @@ summary: iOS 7.1, CarPlay, Googles prissänkning av Google Drive
 
 
 <br>
-<audio controls><source src="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/4.+Ra%CC%88dd+utan+RAID.mp3"></audio>
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/4.+Rädd+utan+RAID.mp3">Lyssna här</a>
+</p>
