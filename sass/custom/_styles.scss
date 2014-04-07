@@ -836,3 +836,49 @@ article {
     }
   }
 }
+
+.google-form-wrapper {
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  .errorbox-good {
+    margin-bottom: 20px;
+  }
+  .success-msg {
+    display: none;
+  }
+  .ss-form-entry {
+    label {
+      //display: block;
+    }
+    input {
+      display: block;
+      padding: 5px;
+      width: 250px;
+      font: inherit;
+    }
+      textarea {
+        display: block;
+      width: 450px;
+      padding: 5px;
+      font: inherit;
+      border: 1px inset;
+      border-image-source: initial;
+border-image-slice: initial;
+border-image-width: initial;
+border-image-outset: initial;
+border-image-repeat: initial;
+    }
+  }
+  .ss-navigate input {
+    width: auto;
+    cursor: pointer;
+  }
+  div.required-message {
+    display: none;
+  }
+  div.ss-password-warning {
+    display: none;  
+  }
+}
