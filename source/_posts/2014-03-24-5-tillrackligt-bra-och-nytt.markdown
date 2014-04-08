@@ -5,7 +5,7 @@ date: 2014-03-24 18:16:01 +0100
 permalink: /5/
 comments: true
 categories: 
-filename: 5.+Tillra%CC%88ckligt+bra+och+Nytt
+filename: 5.+Tillrackligt+bra+och+Nytt
 length: 24413113
 summary: Stor diskussion om Android Wear. Virtual reality av Oculus och Sony.
 ---
@@ -30,5 +30,5 @@ faktiskt används till.
 
 <br>
 <p>
-<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillräckligt+bra+och+Nytt.mp3">Lyssna här</a>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillrackligt+bra+och+Nytt.mp3">Lyssna här</a>
 </p>

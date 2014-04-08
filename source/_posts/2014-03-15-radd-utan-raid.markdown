@@ -5,7 +5,7 @@ date: 2014-03-16 20:45:18 +0100
 permalink: /4/
 comments: true
 categories: 
-filename: 4.+Ra%CC%88dd+utan+RAID
+filename: 4.+Radd+utan+RAID
 length: 22222317
 summary: iOS 7.1, CarPlay, Googles prissänkning av Google Drive
 ---
@@ -31,5 +31,5 @@ summary: iOS 7.1, CarPlay, Googles prissänkning av Google Drive
 
 <br>
 <p>
-<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/4.+Rädd+utan+RAID.mp3">Lyssna här</a>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/4.+Radd+utan+RAID.mp3">Lyssna här</a>
 </p>
