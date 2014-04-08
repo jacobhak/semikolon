@@ -6,10 +6,10 @@ date: 2014-04-07 20:56:02 +0200
 permalink: /6/
 comments: true
 categories: 
-filename: 
-length:
-duration: 
-summary: 
+filename: 6.+En+Puck+ar+Rund
+length: 48843047
+duration: 55:52
+summary: Mer Oculus, TV-boxar och Cortana
 ---
 #+END_HTML
 Uppföljning kring VR efter Facebooks köp av Oculus. Ännu mer
@@ -27,3 +27,5 @@ alternativ.
 - [[http://news.spotify.com/se/2014/04/02/spotify-paints-it-black-with-new-look/][Spotifys stora uppdatering]]
 - [[http://www.androidpolice.com/2014/03/17/google-play-music-and-music-all-access-now-available-in-greece-norway-sweden-and-slovakia/][Google Play Music All Access tillgängligt i Sverige]]
 - [[http://atp.fm][Accidental Tech Podcast, rekommenderas!]]
+
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/6.+En+Puck+ar+Rund.mp3][Lyssna Här]]
