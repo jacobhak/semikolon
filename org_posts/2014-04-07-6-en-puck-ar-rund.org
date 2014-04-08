@@ -13,8 +13,7 @@ summary: Mer Oculus, TV-boxar och Cortana
 ---
 #+END_HTML
 Uppföljning kring VR efter Facebooks köp av Oculus. Ännu mer
-diskussion om TV-boxar efter Amazons lansering av Fire TV
-Uppföljning kring VR efter Facebooks köp av Oculus. Kommer Microsoft
+diskussion om TV-boxar efter Amazons lansering av Fire TV. Kommer Microsoft
 påverka marknaden för virtuella assistenter med Cortana? Ännu mer
 diskussion om TV-boxar efter Amazons lansering av Fire TV. Spotifys
 uppdatering får Jacob att bli sugen på att betala, fast Google är ett
