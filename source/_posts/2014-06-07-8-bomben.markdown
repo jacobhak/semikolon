@@ -1,0 +1,21 @@
+---
+layout: post
+title: "8. Bomben"
+date: 2014-06-07 15:15:09 +0200
+permalink: /8/
+comments: true
+categories: 
+filename: 8.+bomben
+length: 64964151
+duration: 1:07:40
+summary: WWDC-special
+---
+<p>
+WWDC-special.
+</p>
+<p>
+<a href="https://www.youtube.com/watch?v=w87fOAG8fjk">WWDC 2014 Keynote video</a>
+</p>
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/8.+bomben.mp3">Lyssna Här</a>
+</p>
