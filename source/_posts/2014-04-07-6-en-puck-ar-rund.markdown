@@ -7,7 +7,7 @@ comments: true
 categories: 
 filename: 6.+En+Puck+ar+Rund
 length: 48843047
-duration: 55:52
+duration: 0:55:52
 summary: Mer Oculus, TV-boxar och Cortana
 ---
 <p>
