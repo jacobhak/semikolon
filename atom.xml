@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2014-05-13T16:42:56+02:00</updated>
+  <updated>2014-06-07T15:22:43+02:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[8. Bomben]]></title>
+    <link href="http://semikolon.io//8/"/>
+    <updated>2014-06-07T15:15:09+02:00</updated>
+    <id>http://semikolon.io//8-bomben</id>
+    <content type="html"><![CDATA[<p>
+WWDC-special.
+</p>
+
+
+<p>
+<a href="https://www.youtube.com/watch?v=w87fOAG8fjk">WWDC 2014 Keynote video</a>
+</p>
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/8.+bomben.mp3">Lyssna Här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[7. Tillåt Mig Sortera]]></title>
