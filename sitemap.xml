@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://semikolon.io//1/</loc>
-        <lastmod>2014-03-04T21:20:08+01:00</lastmod>
-    </url>
-    <url>
         <loc>http://semikolon.io//2/</loc>
         <lastmod>2014-04-07T23:05:17+02:00</lastmod>
     </url>
@@ -33,16 +29,20 @@
         <lastmod>2014-06-07T15:20:56+02:00</lastmod>
     </url>
     <url>
+        <loc>http://semikolon.io//9/</loc>
+        <lastmod>2014-09-04T21:10:37+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://semikolon.io//about/</loc>
         <lastmod>2014-05-13T19:59:46+02:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//blog/archives/</loc>
-        <lastmod>2014-06-07T15:24:31+02:00</lastmod>
+        <lastmod>2014-09-04T21:10:37+02:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//</loc>
-        <lastmod>2014-06-07T15:24:31+02:00</lastmod>
+        <lastmod>2014-09-04T21:10:37+02:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//itunes.rss</loc>

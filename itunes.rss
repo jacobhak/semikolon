@@ -23,6 +23,47 @@
     
     
     <item>
+      <title><![CDATA[9. Dom bygger nånting utanför]]></title>
+      <description><![CDATA[<p>
+Vad kommer Apple visa upp nästa vecka? Walter har köpt ett nytt ljudsystem. Samsung har visat upp ett VR-headset baserat på Oculus teknik. Vi rekommenderar ett par appar och antirekommenderar en app.
+</p>
+
+
+<ul>
+<li><a href="http://recode.net/2014/08/27/codered-apple-plans-to-announce-wearable-in-september/">Apple kommer visa upp &#8220;iWatch&#8221; 9 September</a>
+</li>
+<li><a href="http://www.sonos.com">Sonos officiella hemsida</a>
+</li>
+<li><a href="http://arstechnica.com/gadgets/2014/09/samsung-reveals-vr-headset-powered-by-a-smartphone/">Samsung visar upp VR headset</a>
+</li>
+<li><a href="http://arstechnica.com/gadgets/2014/09/samsung-announces-the-galaxy-note-4/">Samsungs nya telefoner/phablets</a>
+</li>
+<li><a href="https://overcast.fm">Overcast, spännande podcast-app</a>
+</li>
+<li>Swing copters, <a href="https://play.google.com/store/apps/details?id=com.dotgears.swing&amp;hl=en">Google Play Store</a> <a href="https://itunes.apple.com/nz/app/swing-copters/id905639750?mt=8">App Store</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/9.+dom+bygger+nanting+utanfor.mp3">Lyssna Här</a>
+</p>
+
+]]></description>
+      <link>http://semikolon.io//9/</link>
+      <guid>http://semikolon.io//9/</guid>
+      <pubDate>Thu, 04 Sep 2014 21:01:31 +0200</pubDate>
+      <itunes:duration>199200</itunes:duration>
+      <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
+      <itunes:summary><![CDATA[Vad kommer Apple visa upp nästa vecka? Walter har köpt ett nytt ljudsystem. Samsung har visat upp ett VR-headset baserat på Oculus teknik. Vi rekommenderar ett par appar och antirekommenderar en app.]]></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/9.+dom+bygger+nanting+utanfor.mp3" type="audio/mp3" length="79682373" />
+    </item>
+    
+    
+    
+    <item>
       <title><![CDATA[8. Bomben]]></title>
       <description><![CDATA[<p>
 WWDC-special.
@@ -307,25 +348,6 @@ Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824
       <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
       <itunes:summary><![CDATA[Vi snackar om Facebooks köp av WhatsApp, Googles project Tango, robotar, med mera.]]></itunes:summary>
       <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/2.+Jag+vill+ha+en+robot!.mp3" type="audio/mp3" length="23260117" />
-    </item>
-    
-    
-    
-    <item>
-      <title><![CDATA[Första avsnittet]]></title>
-      <description><![CDATA[<p>
-Vi snackar om Flappy Bird och de senaste Apple ryktena.
-Finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824241885">iTunes</a> och som <a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/podcast1.mp3">mp3</a>.
-</p>
-
-]]></description>
-      <link>http://semikolon.io//1/</link>
-      <guid>http://semikolon.io//1/</guid>
-      <pubDate>Tue, 18 Feb 2014 16:32:10 +0100</pubDate>
-      <itunes:duration></itunes:duration>
-      <itunes:author><![CDATA[Jacob Håkansson och Walter Nordström]]></itunes:author>
-      <itunes:summary><![CDATA[Vi snackar om Flappy Bird och de senaste Apple ryktena.]]></itunes:summary>
-      <enclosure url="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/podcast1.mp3" type="audio/mp3" length="23775317" />
     </item>
     
     
