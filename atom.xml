@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2014-09-04T21:14:56+02:00</updated>
+  <updated>2014-09-10T23:03:03+02:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[10. Små Och Stora Möjligheter]]></title>
+    <link href="http://semikolon.io//10/"/>
+    <updated>2014-09-10T22:46:13+02:00</updated>
+    <id>http://semikolon.io//10-sma-och-stora-mojligheter</id>
+    <content type="html"><![CDATA[<p>
+Stor diskussion om Apple Watch. Lite mindre, men fortfarande stor diskussion om iPhone 6, iPhone 6 Plus och Apple Pay.
+</p>
+
+
+<ul>
+<li><a href="http://www.apple.com/watch/">Apple Watch</a>
+</li>
+<li><a href="http://www.macrumors.com/2014/09/10/watch-battery-life/">Apple Watch batteritid</a>
+</li>
+<li><a href="http://www.apple.com/iphone-6/">iPhone 6 och iPhone 6 Plus</a>
+</li>
+<li><a href="http://www.apple.com/iphone-6/apple-pay/">Apple Pay</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/10.+sma+och+stora+mojligheter.mp3">Lyssna Här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[9. Dom Bygger Nånting Utanför]]></title>
