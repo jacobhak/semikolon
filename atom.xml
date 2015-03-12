@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2014-09-10T23:03:03+02:00</updated>
+  <updated>2015-03-12T22:41:49+01:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[11. Den Lilla Gyllene Elefanten I Rummet]]></title>
+    <link href="http://semikolon.io//11/"/>
+    <updated>2015-03-12T22:25:17+01:00</updated>
+    <id>http://semikolon.io//11-den-lilla-gyllene-elefanten-i-rummet</id>
+    <content type="html"><![CDATA[<p>
+Vi diskuterar nyheterna från Apples &#8220;Spring forward&#8221;-event.
+</p>
+
+
+<ul class="org-ul">
+<li><a href="http://www.apple.com/live/2015-mar-event/">Hela eventet</a>
+</li>
+<li><a href="http://www.apple.com/watch/gallery/#apple-watch-sport-silver-aluminum-case-white-sport-band">Apple Watch, alla modeller</a>
+</li>
+<li><a href="https://www.apple.com/researchkit/">Research kit</a>
+</li>
+<li><a href="http://www.apple.com/macbook/">Ny macbook</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/11.+Den+lilla+gyllene+elefanten+i+rummet.mp3">Lyssna Här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[10. Små Och Stora Möjligheter]]></title>
@@ -23,7 +54,9 @@ Stor diskussion om Apple Watch. Lite mindre, men fortfarande stor diskussion om 
 </p>
 
 
-<ul>
+
+
+<ul class="org-ul">
 <li><a href="http://www.apple.com/watch/">Apple Watch</a>
 </li>
 <li><a href="http://www.macrumors.com/2014/09/10/watch-battery-life/">Apple Watch batteritid</a>
@@ -54,7 +87,7 @@ Vad kommer Apple visa upp nästa vecka? Walter har köpt ett nytt ljudsystem. Sa
 </p>
 
 
-<ul>
+<ul class="org-ul">
 <li><a href="http://recode.net/2014/08/27/codered-apple-plans-to-announce-wearable-in-september/">Apple kommer visa upp &#8220;iWatch&#8221; 9 September</a>
 </li>
 <li><a href="http://www.sonos.com">Sonos officiella hemsida</a>
@@ -65,7 +98,7 @@ Vad kommer Apple visa upp nästa vecka? Walter har köpt ett nytt ljudsystem. Sa
 </li>
 <li><a href="https://overcast.fm">Overcast, spännande podcast-app</a>
 </li>
-<li>Swing copters, <a href="https://play.google.com/store/apps/details?id=com.dotgears.swing&amp;hl=en">Google Play Store</a> <a href="https://itunes.apple.com/nz/app/swing-copters/id905639750?mt=8">App Store</a>
+<li>Swing copters, <a href="https://play.google.com/store/apps/details?id=com.dotgears.swing&hl=en">Google Play Store</a> <a href="https://itunes.apple.com/nz/app/swing-copters/id905639750?mt=8">App Store</a>
 </li>
 </ul>
 
@@ -89,9 +122,13 @@ WWDC-special.
 </p>
 
 
+
+
 <p>
 <a href="https://www.youtube.com/watch?v=w87fOAG8fjk">WWDC 2014 Keynote video</a>
 </p>
+
+
 
 
 <p>
@@ -112,16 +149,18 @@ att hända på WWDC.
 </p>
 
 
-<ul>
+
+
+<ul class="org-ul">
 <li><a href="http://online.wsj.com/news/articles/SB10001424052702303701304579550682787925164">Apple är på väg att köpa Beats Audio</a>
-
 </li>
+
 <li><a href="http://www.macrumors.com/2014/03/11/itunes-radio-third-most-popular-us-music-service/">Streamingtjänsters marknadsandelar i USA</a>
-
 </li>
+
 <li><a href="http://www.macrumors.com/2014/05/10/iphone-6-renders-foxconn-surface/">Rendering av nästa iPhone</a>
-
 </li>
+
 <li><a href="http://recode.net/2014/05/02/codered-no-new-apple-tv-at-wwdc/">Ingen ny Apple TV eller iWatch på WWDC</a>
 </li>
 </ul>
@@ -151,7 +190,9 @@ alternativ.
 </p>
 
 
-<ul>
+
+
+<ul class="org-ul">
 <li><a href="http://arstechnica.com/gaming/2014/03/welcome-to-the-vr-social-what-to-expect-from-oculus-in-the-facebook-era/">Analys av Facebooks köp av Oculus</a>
 </li>
 <li><a href="http://arstechnica.com/information-technology/2014/04/how-microsofts-cortana-will-take-digital-personal-assistants-to-the-next-level/">Microsoft Cortana</a>
@@ -190,7 +231,9 @@ faktiskt används till.
 </p>
 
 
-<ul>
+
+
+<ul class="org-ul">
 <li><a href="http://www.theverge.com/2014/3/18/5522226/google-reveals-android-wear-an-operating-system-designed-for">Android Wear</a>
 </li>
 <li><a href="https://www.kickstarter.com/projects/neptune/neptune-pine-smartwatch-reinvented">Galen Smartwatch? Neptune Pine</a>
@@ -208,7 +251,8 @@ faktiskt används till.
 
 
 <p>
-<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillrackligt+bra+och+Nytt.mp3">Lyssna här</a>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/5.+Tillrackligt+bra+och+Nytt.mp3">Lyssna
+här</a>
 </p>
 
 ]]></content>
@@ -219,7 +263,7 @@ faktiskt används till.
     <link href="http://semikolon.io//4/"/>
     <updated>2014-03-16T20:45:18+01:00</updated>
     <id>http://semikolon.io//radd-utan-raid</id>
-    <content type="html"><![CDATA[<ul>
+    <content type="html"><![CDATA[<ul class="org-ul">
 <li><a href="http://9to5mac.com/2014/03/05/opinion-does-carplay-go-far-enough-or-should-car-manufacturers-let-apple-do-more/#more-313139">CarPlay</a>
 </li>
 <li><a href="http://arstechnica.com/apple/2014/03/refinements-additions-and-un-breaking-stuff-ios-7-1-reviewed/">iOS 7.1</a>
@@ -254,7 +298,7 @@ faktiskt används till.
     <link href="http://semikolon.io//3/"/>
     <updated>2014-03-04T20:45:19+01:00</updated>
     <id>http://semikolon.io//3-bitcoins-i-byran</id>
-    <content type="html"><![CDATA[<ul>
+    <content type="html"><![CDATA[<ul class="org-ul">
 <li><a href="http://arstechnica.com/business/2014/02/mt-gox-once-the-worlds-largest-bitcoin-exchange-shuts-down/">Mt. Gox stänger ner</a>
 </li>
 <li><a href="http://m.ibtimes.com/mtgox-blames-bitcoin-withdrawal-suspension-core-developers-say-otherwise-who-really-fault-1554512">Bitcoin bugg förklarad</a>
@@ -289,13 +333,13 @@ Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824
     <link href="http://semikolon.io//2/"/>
     <updated>2014-02-23T19:49:05+01:00</updated>
     <id>http://semikolon.io//2-jag-vill-ha-en-robot</id>
-    <content type="html"><![CDATA[<ul>
+    <content type="html"><![CDATA[<ul class="org-ul">
 <li><a href="http://arstechnica.com/business/2014/02/facebook-buys-whatsapp-for-16-billion/">Facebook köper WhatsApp</a>
 </li>
 <li><a href="http://arstechnica.com/gadgets/2014/02/googles-project-tango-is-a-smartphone-with-kinect-style-computer-vision/">Google lanserar project Tango</a>
 </li>
 <li>Robotar
-<ul>
+<ul class="org-ul">
 <li><a href="http://news.cnet.com/8301-1023_3-57614454-93/andy-rubins-next-google-moonshot-project-robots/">Chefen för Android går till robotlabb</a>
 </li>
 <li><a href="http://www.theguardian.com/technology/2013/dec/17/google-boston-dynamics-robots-atlas-bigdog-cheetah">Google köpte Boston Dynamics</a>
@@ -303,7 +347,6 @@ Avsnittet finns på <a href="https://itunes.apple.com/us/podcast/semikolon/id824
 <li><a href="http://romotive.com">Romo, iPhone robot</a>
 </li>
 </ul>
-
 </li>
 <li><a href="http://www.macrumors.com/2014/02/12/new-apple-tv-april/">Apple dealar med Time Warner</a>
 </li>

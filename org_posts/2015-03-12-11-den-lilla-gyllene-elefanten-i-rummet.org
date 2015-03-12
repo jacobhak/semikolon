@@ -1,0 +1,21 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "11. Den lilla gyllene elefanten i rummet"
+date: 2015-03-12 22:25:17 +0100
+permalink: /11/
+comments: true
+categories: 
+filename: 11.+Den+lilla+gyllene+elefanten+i+rummet
+length: 65726743
+duration: 0:51:29
+summary: Vi diskuterar nyheterna från Apples “Spring forward”-event.
+---
+#+END_HTML
+Vi diskuterar nyheterna från Apples "Spring forward"-event.
+- [[http://www.apple.com/live/2015-mar-event/][Hela eventet]]
+- [[http://www.apple.com/watch/gallery/#apple-watch-sport-silver-aluminum-case-white-sport-band][Apple Watch, alla modeller]]
+- [[https://www.apple.com/researchkit/][Research kit]]
+- [[http://www.apple.com/macbook/][Ny macbook]]
+
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/11.+Den+lilla+gyllene+elefanten+i+rummet.mp3][Lyssna Här]]
