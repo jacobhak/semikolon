@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2015-03-12T22:41:49+01:00</updated>
+  <updated>2015-03-22T17:52:18+01:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[12. Bilen]]></title>
+    <link href="http://semikolon.io//12/"/>
+    <updated>2015-03-22T17:39:55+01:00</updated>
+    <id>http://semikolon.io//12-bilen</id>
+    <content type="html"><![CDATA[<p>
+Vi diskuterar rykten om Apples bilprojekt. Siri kommer på svenska.
+</p>
+
+
+<ul class="org-ul">
+<li><a href="http://www.wsj.com/articles/apples-titan-car-project-to-challenge-tesla-1423868072">Apple bygger en bil</a>
+</li>
+<li><a href="http://9to5mac.com/2015/02/23/siri-learns-russian-danish-dutch-swedish-and-thai-for-ios-8-3-beta-2/">Siri kommer på svenska i iOS 8.3</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/12.+Bilen.mp3">Lyssna Här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[11. Den Lilla Gyllene Elefanten I Rummet]]></title>

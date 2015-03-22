@@ -1,0 +1,19 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "12. Bilen"
+date: 2015-03-22 17:39:55 +0100
+permalink: /12/
+comments: true
+categories: 
+filename: 12.+Bilen.mp3
+length: 35810759
+duration: 0:26:47
+summary: Vi diskuterar rykten om Apples bilprojekt. Siri kommer på svenska.
+---
+#+END_HTML
+Vi diskuterar rykten om Apples bilprojekt. Siri kommer på svenska.
+- [[http://www.wsj.com/articles/apples-titan-car-project-to-challenge-tesla-1423868072][Apple bygger en bil]]
+- [[http://9to5mac.com/2015/02/23/siri-learns-russian-danish-dutch-swedish-and-thai-for-ios-8-3-beta-2/][Siri kommer på svenska i iOS 8.3]]
+
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/12.+Bilen.mp3][Lyssna Här]]
