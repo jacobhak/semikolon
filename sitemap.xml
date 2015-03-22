@@ -1,44 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://semikolon.io//2/</loc>
+        <loc>http://semikolon.io//blog/2014/02/23/2-jag-vill-ha-en-robot/</loc>
         <lastmod>2015-03-12T22:36:27+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//3/</loc>
+        <loc>http://semikolon.io//blog/2014/03/04/3-bitcoins-i-byran/</loc>
         <lastmod>2015-03-12T22:36:26+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//4/</loc>
+        <loc>http://semikolon.io//blog/2014/03/15/radd-utan-raid/</loc>
         <lastmod>2015-03-12T22:36:25+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//5/</loc>
+        <loc>http://semikolon.io//blog/2014/03/24/5-tillrackligt-bra-och-nytt/</loc>
         <lastmod>2015-03-12T22:36:25+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//6/</loc>
+        <loc>http://semikolon.io//blog/2014/04/07/6-en-puck-ar-rund/</loc>
         <lastmod>2015-03-12T22:36:25+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//7/</loc>
+        <loc>http://semikolon.io//blog/2014/05/13/7-tillat-mig-sortera/</loc>
         <lastmod>2015-03-12T22:36:24+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//8/</loc>
+        <loc>http://semikolon.io//blog/2014/06/07/8-bomben/</loc>
         <lastmod>2015-03-12T22:36:24+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//9/</loc>
+        <loc>http://semikolon.io//blog/2014/09/04/9-dom-bygger-nanting-utanfor/</loc>
         <lastmod>2015-03-12T22:36:24+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//10/</loc>
+        <loc>http://semikolon.io//blog/2014/09/10/10-sma-och-stora-mojligheter/</loc>
         <lastmod>2015-03-12T22:36:23+01:00</lastmod>
     </url>
     <url>
-        <loc>http://semikolon.io//11/</loc>
+        <loc>http://semikolon.io//blog/2015/03/12/11-den-lilla-gyllene-elefanten-i-rummet/</loc>
         <lastmod>2015-03-12T22:41:48+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://semikolon.io//blog/2015/03/22/12-bilen/</loc>
+        <lastmod>2015-03-22T17:47:48+01:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//about/</loc>
@@ -46,11 +50,11 @@
     </url>
     <url>
         <loc>http://semikolon.io//blog/archives/</loc>
-        <lastmod>2015-03-12T22:41:48+01:00</lastmod>
+        <lastmod>2015-03-22T17:47:48+01:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//</loc>
-        <lastmod>2015-03-12T22:41:48+01:00</lastmod>
+        <lastmod>2015-03-22T17:47:48+01:00</lastmod>
     </url>
     <url>
         <loc>http://semikolon.io//itunes.rss</loc>
