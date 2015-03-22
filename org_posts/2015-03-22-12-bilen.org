@@ -6,7 +6,7 @@ date: 2015-03-22 17:39:55 +0100
 permalink: /12/
 comments: true
 categories: 
-filename: 12.+Bilen.mp3
+filename: 12.+Bilen
 length: 35810759
 duration: 0:26:47
 summary: Vi diskuterar rykten om Apples bilprojekt. Siri kommer på svenska.
