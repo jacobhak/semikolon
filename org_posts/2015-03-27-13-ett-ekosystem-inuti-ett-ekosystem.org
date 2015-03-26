@@ -1,0 +1,22 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "13 . Ett ekosystem inuti ett ekosystem"
+date: 2015-03-27 00:08:29 +0100
+permalink: /13/
+comments: true
+categories: 
+filename: 13.+Ett+ekosystem+inuti+ett+ekosystem
+length: 56072294
+duration: 0:42:46 
+summary: Hur kommer Apples nya beryktade TV-tjänst förändra hur vi kollar på TV? Vi diskuterar även nyheter från Facebooks konferens f8.
+---
+#+END_HTML
+Hur kommer Apples nya beryktade TV-tjänst förändra hur vi kollar på TV? Vi diskuterar även nyheter från Facebooks konferens f8.
+- [[http://9to5mac.com/2015/03/16/wsj-apple-announcing-30-40month-web-tv-service-in-june-shipping-in-september-with-25-channels/][Ny Apple TV med tjänst på gång]]
+- [[http://www.macrumors.com/2015/03/25/facebook-messenger-third-party-apps/][Facebooks nya ekosystem i Messenger]]
+- [[http://www.nytimes.com/2015/03/24/business/media/facebook-may-host-news-sites-content.html][Facebook kommer eventuellt hosta nyheter åt tidningar]]
+- [[http://www.businessnewsdaily.com/7856-facebook-messenger-payments.html][Skicka pengar med Facebook Messenger]]
+- [[http://facebook.github.io/react-native/][React Native]]
+
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/13.+Ett+ekosystem+inuti+ett+ekosystem.mp3][Lyssna Här]]

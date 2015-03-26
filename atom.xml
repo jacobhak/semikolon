@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2015-03-22T17:55:58+01:00</updated>
+  <updated>2015-03-27T00:12:48+01:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[13 . Ett Ekosystem Inuti Ett Ekosystem]]></title>
+    <link href="http://semikolon.io//13/"/>
+    <updated>2015-03-27T00:08:29+01:00</updated>
+    <id>http://semikolon.io//13-ett-ekosystem-inuti-ett-ekosystem</id>
+    <content type="html"><![CDATA[<p>
+Hur kommer Apples nya beryktade TV-tjänst förändra hur vi kollar på TV? Vi diskuterar även nyheter från Facebooks konferens f8.
+</p>
+
+
+<ul class="org-ul">
+<li><a href="http://9to5mac.com/2015/03/16/wsj-apple-announcing-30-40month-web-tv-service-in-june-shipping-in-september-with-25-channels/">Ny Apple TV med tjänst på gång</a>
+</li>
+<li><a href="http://www.macrumors.com/2015/03/25/facebook-messenger-third-party-apps/">Facebooks nya ekosystem i Messenger</a>
+</li>
+<li><a href="http://www.nytimes.com/2015/03/24/business/media/facebook-may-host-news-sites-content.html">Facebook kommer eventuellt hosta nyheter åt tidningar</a>
+</li>
+<li><a href="http://www.businessnewsdaily.com/7856-facebook-messenger-payments.html">Skicka pengar med Facebook Messenger</a>
+</li>
+<li><a href="http://facebook.github.io/react-native/">React Native</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/13.+Ett+ekosystem+inuti+ett+ekosystem.mp3">Lyssna Här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[12. Bilen]]></title>
