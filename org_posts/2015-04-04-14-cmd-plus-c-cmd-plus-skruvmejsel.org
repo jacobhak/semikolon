@@ -1,0 +1,23 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "14. cmd + c, cmd + skruvmejsel"
+date: 2015-04-04 19:19:32 +0200
+permalink: /14/
+comments: true
+categories: 
+filename: 14.+cmd+plus+c%2C+cmd+plus+skruvmejsel
+length: 49176116
+duration: 0:36:43
+summary: Nintendo kommer till slut till mobiltelefoner. Rykten om nya iPhones. Vi gillar Tim Cook.
+---
+#+END_HTML
+Nintendo kommer till slut till mobiltelefoner. Rykten om nya iPhones. Vi gillar Tim Cook.
+- [[http://arstechnica.com/gaming/2015/03/nintendo-partners-with-dena-to-develop-mobile-phone-games/][Nintedo sammarbetar med DeNA för att göra mobilspel]]
+- [[http://9to5mac.com/2015/03/30/iphone-6c-rear-shell/][Läckt skal till iPhone 6C]]
+- [[http://www.macrumors.com/2015/04/02/iphone-7-force-touch-ming-chi-kuo/][Ingen 4-tums iPhone i år enligt Ming Chi Kuo]]
+- [[http://www.fastcompany.com/3044386/fast-feed/apple-ceo-tim-cook-to-donate-his-fortune-to-charity][Tim Cook kommer donera sin förmögenhet]]
+- [[http://fortune.com/2015/03/26/tim-cook/][Tim Cook utsedd till årets ledare av tidningen Fortune]]
+- [[http://www.bloomberg.com/news/articles/2014-10-30/tim-cook-speaks-up][Tim Cook kommer ut som gay]]
+
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/14.+cmd+plus+c%2C+cmd+plus+skruvmejsel.mp3][Lyssna Här]]

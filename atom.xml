@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2015-03-27T00:12:48+01:00</updated>
+  <updated>2015-04-04T19:37:23+02:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[14. Cmd + C, Cmd + Skruvmejsel]]></title>
+    <link href="http://semikolon.io//14/"/>
+    <updated>2015-04-04T19:19:32+02:00</updated>
+    <id>http://semikolon.io//14-cmd-plus-c-cmd-plus-skruvmejsel</id>
+    <content type="html"><![CDATA[<p>
+Nintendo kommer till slut till mobiltelefoner. Rykten om nya iPhones. Vi gillar Tim Cook.
+</p>
+
+
+<ul class="org-ul">
+<li><a href="http://arstechnica.com/gaming/2015/03/nintendo-partners-with-dena-to-develop-mobile-phone-games/">Nintedo sammarbetar med DeNA för att göra mobilspel</a>
+</li>
+<li><a href="http://9to5mac.com/2015/03/30/iphone-6c-rear-shell/">Läckt skal till iPhone 6C</a>
+</li>
+<li><a href="http://www.macrumors.com/2015/04/02/iphone-7-force-touch-ming-chi-kuo/">Ingen 4-tums iPhone i år enligt Ming Chi Kuo</a>
+</li>
+<li><a href="http://www.fastcompany.com/3044386/fast-feed/apple-ceo-tim-cook-to-donate-his-fortune-to-charity">Tim Cook kommer donera sin förmögenhet</a>
+</li>
+<li><a href="http://fortune.com/2015/03/26/tim-cook/">Tim Cook utsedd till årets ledare av tidningen Fortune</a>
+</li>
+<li><a href="http://www.bloomberg.com/news/articles/2014-10-30/tim-cook-speaks-up">Tim Cook kommer ut som gay</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/14.+cmd+plus+c,+cmd+plus+skruvmejsel.mp3">Lyssna Här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[13 . Ett Ekosystem Inuti Ett Ekosystem]]></title>
