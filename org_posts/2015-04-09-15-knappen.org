@@ -1,0 +1,22 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "15. Knappen"
+date: 2015-04-09 21:44:14 +0200
+permalink: /15/
+comments: true
+categories: 
+filename: 15.+Knappen
+length: 61177559
+duration: 
+summary: Siri på svenska. Apple Watch recensioner. Periscope. Amazon Dash Button.
+---
+#+END_HTML
+iOS 8.3 har släppts, och därmed Siri på svenska. Vi diskuterar veckans recensioner av Apple Watch. Diskussion om Meerkat och Periscope. Amazon ska släppa en knapp. Vidare diskussion om automatisering generellt och i hemmet.
+
+- [[http://www.macrumors.com/2015/04/08/apple-watch-review-roundup/][Apple Watch recensioner]]
+- [[https://www.periscope.tv][Appen Periscope]]
+- [[http://meerkatapp.co][Appen Meerkat]]
+- [[https://www.amazon.com/oc/dash-button][Amazon Dash Button]]
+
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/15.+Knappen.mp3][Lyssna Här]]
