@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2015-04-09T21:50:41+02:00</updated>
+  <updated>2015-04-19T19:47:23+02:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[16. Blådad Tand]]></title>
+    <link href="http://semikolon.io//16/"/>
+    <updated>2015-04-19T19:40:29+02:00</updated>
+    <id>http://semikolon.io//16-bladad-tand</id>
+    <content type="html"><![CDATA[<p>
+Apple Watch är slutsåld. Walter har köpt bluetoothhörlurar. Apple kommer uppdatera Musikappen i iOS 8.4.
+</p>
+
+
+
+
+<ul class="org-ul">
+<li><a href="http://www.macrumors.com/2015/04/15/apple-watch-2-3-million-pre-orders/">Apple watch har sålts i 2,3 miljoner exemplar</a>
+</li>
+<li><a href="http://www.beatsbydre.com/earphones/beats-powerbeats2-wireless.html">PowerBeats2 wireless hörlurar</a>
+</li>
+<li><a href="https://www.youtube.com/watch?v=nMISdaKdpb4">Demo av nya Musikappen (youtube)</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/16.+Bladad+Tand.mp3">Lyssna Här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[15. Knappen]]></title>

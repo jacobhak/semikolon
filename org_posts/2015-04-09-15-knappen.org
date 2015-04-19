@@ -8,7 +8,7 @@ comments: true
 categories: 
 filename: 15.+Knappen
 length: 61177559
-duration: 
+duration: 0:46:43
 summary: Siri på svenska. Apple Watch recensioner. Periscope. Amazon Dash Button.
 ---
 #+END_HTML
