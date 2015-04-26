@@ -1,0 +1,22 @@
+#+BEGIN_HTML
+---
+layout: post
+title: "17. Det svider i ögonen"
+date: 2015-04-26 21:47:44 +0200
+permalink: /17/
+comments: true
+categories: 
+filename: 17.+Det+svider+i+ogonen
+length: 56037168
+duration: 0:42:54
+summary: Lite nyheter om Apple Watch, igen. Walter har köpt en Nintendo 3DS XL.
+---
+#+END_HTML
+Lite nyheter om Apple Watch, igen. Liten diskussion om Android Wear. Walter har köpt en Nintendo 3DS XL.
+
+- [[http://9to5mac.com/2015/04/24/apple-watch-blood-oxygen/][Apple Watch har en sensor för syresättning i blodet]]
+- [[https://www.youtube.com/watch?v=afYnwnCp_D8][Intervju med Jony Ive och Marc Newson (youtube)]]
+- [[http://arstechnica.com/gadgets/2015/04/20/android-wear-update-closes-functionality-gap-with-the-apple-watch/][Senaste uppdateringen av Android Wear]]
+- [[http://www.nintendo.com/3ds][Nya Nintendo 3DS XL]]
+
+[[https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/17.+Det+svider+i+ogonen.mp3][Lyssna här]]

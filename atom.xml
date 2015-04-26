@@ -4,7 +4,7 @@
   <title><![CDATA[Semikolon]]></title>
   <link href="http://semikolon.io//atom.xml" rel="self"/>
   <link href="http://semikolon.io//"/>
-  <updated>2015-04-19T19:47:23+02:00</updated>
+  <updated>2015-04-26T21:53:40+02:00</updated>
   <id>http://semikolon.io//</id>
   <author>
     <name><![CDATA[Jacob Håkansson och Walter Nordström]]></name>
@@ -12,6 +12,39 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[17. Det Svider I ögonen]]></title>
+    <link href="http://semikolon.io//17/"/>
+    <updated>2015-04-26T21:47:44+02:00</updated>
+    <id>http://semikolon.io//17-det-svider-i-ogonen</id>
+    <content type="html"><![CDATA[<p>
+Lite nyheter om Apple Watch, igen. Liten diskussion om Android Wear. Walter har köpt en Nintendo 3DS XL.
+</p>
+
+
+
+
+<ul class="org-ul">
+<li><a href="http://9to5mac.com/2015/04/24/apple-watch-blood-oxygen/">Apple Watch har en sensor för syresättning i blodet</a>
+</li>
+<li><a href="https://www.youtube.com/watch?v=afYnwnCp_D8">Intervju med Jony Ive och Marc Newson (youtube)</a>
+</li>
+<li><a href="http://arstechnica.com/gadgets/2015/04/20/android-wear-update-closes-functionality-gap-with-the-apple-watch/">Senaste uppdateringen av Android Wear</a>
+</li>
+<li><a href="http://www.nintendo.com/3ds">Nya Nintendo 3DS XL</a>
+</li>
+</ul>
+
+
+
+
+<p>
+<a href="https://s3-eu-west-1.amazonaws.com/www.semikolon.fm/audio/17.+Det+svider+i+ogonen.mp3">Lyssna här</a>
+</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[16. Blådad Tand]]></title>
